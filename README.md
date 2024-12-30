@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/de80befb-53d2-42a7-adf9-cfbeccd2c481)
+
+
 # DATA_SCIENCE_PROJECT
 Situation
 The dataset contains sales data from "Dune Sales," providing a rich foundation to explore patterns, clean missing values, and visualize insights for business decision-making.
